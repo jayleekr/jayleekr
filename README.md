@@ -1,14 +1,14 @@
 ### Wassup I'm Jay 🐒
 
 - 🔭 I’m currently working @ ...
-  >[Hyundai Autron](http://www.hyundai-autron.com/eng/main/index.do) as DevOps engineer since Dec 2019.
+  >[Hyundai Autron](http://www.hyundai-autron.com/eng/main/index.do) as a lead software engineer since Dec 2019.
 
-  >Using c/c++, bash, docker, plantuml, CANoe as technics.
+  >Using C/C++, C#, python, bash, bitbake
 
-  >Tech Stack ? Adaptive AUTOSAR, MISRA C++, Jenkins, Jira, Confluence, Crucible, VS Code(Big fan. this is a new tech!!), [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture), etc.
+  >Tech Stack ? Yocto(>2.9), Adaptive AUTOSAR, MISRA C++, aarch, SOA, MSA, C# WPF, .NET, etc.
 
 - 🌱 I’m currently learning ...
-  >Modern C++(above c++11), Kubernetes, Docker(buildx!!), Golang, llvm, clang, microservice, etc.
+  >Modern C++, Kubernetes, Docker(buildx!!), Golang, llvm, clang, Rust, etc.
 
 - 📫 How to reach me: Click me -> [linkedin](https://linkedin.com/in/jayjayleekr), [fb](https://facebook.com/jayjaykr), [ig](https://instagram.com/jaylee.kr)
 
