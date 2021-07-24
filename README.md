@@ -1,7 +1,7 @@
 ### Wassup I'm Jay 🐒
 
 - 🔭 I’m currently working @ ...
-  >[Sonatus Software](http://www.sonatus.com) as a software engineer since Dec 2021.
+  >[Sonatus Software](http://www.sonatus.com) as a software engineer since June 2021.
 
   >Using C/C++, C#, python, bash, bitbake
 
