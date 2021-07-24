@@ -1,7 +1,7 @@
 ### Wassup I'm Jay 🐒
 
 - 🔭 I’m currently working @ ...
-  >[Hyundai Autron](http://www.hyundai-autron.com/eng/main/index.do) as a lead software engineer since Dec 2019.
+  >[Sonatus Software](http://www.sonatus.com) as a software engineer since Dec 2021.
 
   >Using C/C++, C#, python, bash, bitbake
 
