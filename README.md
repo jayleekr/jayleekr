@@ -3,12 +3,12 @@
 - 🔭 I’m currently working @ ...
   >[Sonatus Software](http://www.sonatus.com) as a software engineer since June 2021.
 
-  >Using C/C++, C#, python, bash, bitbake
+  >Lang ? C/C++, bash, C#, python, JAVA, bitbake, blahblah
 
   >Tech Stack ? Yocto(>2.9), Adaptive AUTOSAR, MISRA C++, aarch, SOA, MSA, C# WPF, .NET, etc.
 
-- 🌱 I’m currently learning ...
-  >Modern C++, Kubernetes, Docker(buildx!!), Golang, llvm, clang, Rust, etc.
+- 🌱 I’m currently interested in ...
+  > Docker(buildx!!, runc, containerd), golang, llvm, clang, rust, etc.
 
 - 📫 How to reach me: Click me -> [linkedin](https://linkedin.com/in/jayjayleekr), [fb](https://facebook.com/jayjaykr), [ig](https://instagram.com/jaylee.kr)
 
